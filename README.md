@@ -12,3 +12,7 @@
 - 🥞 [Pancake](https://www.food4rhino.com/en/app/pancake), to improve interopability in Grasshopper.
 - PancakeSpreadsheet [GitHub](https://github.com/karakasa/Pancake.ManagedGeometry) [Food4Rhino](https://www.food4rhino.com/en/app/pancakespreadsheet?lang=en), enabling Excel-less xls(x) file read/write in Grasshopper.
 - [Pancake.ManagedGeometry](https://github.com/karakasa/Pancake.ManagedGeometry), a fully-managed framework for simple geometric manipulations.
+
+### Contact
+- You may leave an issue here
+- Find me on [McNeel's discourse](https://discourse.mcneel.com/), for Rhino3d/Grasshopper-related issues. 
